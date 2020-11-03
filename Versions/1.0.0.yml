@@ -2,19 +2,21 @@ cvs: "1.0.0"
 info:
   version: 1.0.1
 person:
-  - firstname: "Ben"
-    surname: "Miller"
-    middle: "Andrew David"
-    preferred: "Andrew"
+  firstname: "Ben"
+  surname: "Miller"
+  middle: "Andrew David"
+  preferred: "Andrew"
 contact:
-  - email: "ben.miller@gmail.com"
-    mobile: "+44000000000"
+  email:
+    - "ben.miller@gmail.com"
+  mobile: 
+    - "+44000000000"
 links:
-  - youtube: "benmiller"
-    github: "https:/www.github.com/benmiller"
-    linkedin: "benmiller"
-    twitter: "benmiller"
-    website: "http://www.benmiller.com/"
+  youtube: "benmiller"
+  github: "https:/www.github.com/benmiller"
+  linkedin: "benmiller"
+  twitter: "benmiller"
+  website: "http://www.benmiller.com/"
 education:
   - school: "Bayes Water High"
     type: "highschool"

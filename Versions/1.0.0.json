@@ -10,8 +10,8 @@
       "preferred": "Andrew"
     },
     "contact": {
-      "email": "ben.miller@gmail.com",
-      "mobile": "+44000000000"
+      "email": ["ben.miller@gmail.com"],
+      "mobile": ["+44000000000"]
     },
     "links": {
       "youtube": "benmiller",
